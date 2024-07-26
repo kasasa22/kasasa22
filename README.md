@@ -86,7 +86,7 @@
 </p>
 
 <div style="display:grid;align-items:center;justify-content:center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mkb2001&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mkb2001&layout=compact&theme=gotham&langs_count=8"/>
-  <img src="https://komarev.com/ghpvc/?username=mkb2001&abbreviated=true">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kasasa22&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kasasa22&layout=compact&theme=gotham&langs_count=8"/>
+  <img src="https://komarev.com/ghpvc/?username=kasasa22&abbreviated=true">
 </div>
