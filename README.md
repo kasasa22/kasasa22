@@ -8,18 +8,18 @@
 
 <p align="left"> <a href="https://twitter.com/kasasa22" target="blank"><img src="https://img.shields.io/twitter/follow/kasasa22?logo=twitter&style=for-the-badge" alt="kasasa Trevor" /></a> </p>
 
-- 🔭 I’m currently working on **Afrilearn**
+- 🔭 I’m currently pursuing a degree at **Makeerere University**
   
-- 🌱 I’m currently learning **Front-End Development with React, Django, Flask, ML and generative AI.**
+- 🌱 I’m currently learning **Front-End Development with React, Django, Flask, ML and backend developement using the **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Management Project, Websites, Applications and CMS**
 
-- 💬 Ask me about **JavaScript, PHP, Laravel Framework, Web App Development, Mobile Application Development**
+- 💬 Ask me about **JavaScript,python, PHP, Laravel Framework, Web App Development, Mobile Application Development**
 
 - 📫 How to reach me **kasasatrevor25@gmail.com**
 
 - ⚡ Fun fact **I think I am a football addict! Lol**
-<img align="right" alt="Coding" width=200 src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
