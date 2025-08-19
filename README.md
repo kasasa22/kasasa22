@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kasasa22" target="blank"><img src="https://img.shields.io/twitter/follow/kasasa22?logo=twitter&style=for-the-badge" alt="kasasa Trevor" /></a> </p>
 
-- 🔭 I'm currently pursuing a degree at **Makeerere University**
+- 🔭 I'm currently awaiting Graduation for a bachelors degree in Software Engineering from **Makeerere University**
   
 - 🌱 I'm building **AI agents, LLM applications, and intelligent systems** while continuously expanding my skills in the **MERN stack**
 
