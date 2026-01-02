@@ -23,7 +23,7 @@ async function gitlab() {
 
 async function gitea() {
   const res = await axios.get(
-    `https://gitea.example.com/api/v1/users/${giteaUser}/events`,
+    `https://gitea.shamanpay.com/api/v1/users/${giteaUser}/events`,
     { headers: { Authorization: `token ${process.env.GITEA_TOKEN}` } }
   );
   return res.data.length;
