@@ -3,7 +3,6 @@ import fs from "fs";
 
 const githubUser = "kasasa22";
 const gitlabUserId = "22665548";
-const giteaUser = "kasasatrevor";
 
 async function github() {
   try {
@@ -31,20 +30,6 @@ async function gitlab() {
   }
 }
 
-async function gitea() {
-  try {
-    const res = await axios.get(
-      `https://gitea.shamanpay.com/api/v1/users/${giteaUser}/heatmap`,
-      { headers: { Authorization: `token ${process.env.GITEA_TOKEN}` } }
-    );
-    // Sum all contributions from heatmap
-    return res.data.reduce((sum, item) => sum + item.contributions, 0);
-  } catch (err) {
-    console.error("Gitea API error:", err.message);
-    return 0;
-  }
-}
-
 function calculateRank(total) {
   if (total > 5000) return "Top 1%";
   if (total > 2000) return "Top 5%";
@@ -56,13 +41,11 @@ function calculateRank(total) {
 (async () => {
   const githubCount = await github();
   const gitlabCount = await gitlab();
-  const giteaCount = await gitea();
-  const total = githubCount + gitlabCount + giteaCount;
+  const total = githubCount + gitlabCount;
 
   const data = {
     github: githubCount,
     gitlab: gitlabCount,
-    gitea: giteaCount,
     total: total,
     globalRank: calculateRank(total),
     updated: new Date().toISOString()

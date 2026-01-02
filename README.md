@@ -158,7 +158,7 @@ const kasasa: Developer = {
   [![Uganda Rank](https://user-badge.committers.top/uganda/kasasa22.svg)](https://committers.top/uganda)
 
 - 🌍 **Global:**
-  **GitHub + GitLab + Gitea aggregated**
+  **GitHub + GitLab aggregated**
 
 </div>
 
