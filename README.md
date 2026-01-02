@@ -154,6 +154,19 @@ const kasasa: Developer = {
 
 ---
 
+---
+## Github Rankings
+
+<div>
+  [![committers.top badge](https://user-badge.committers.top/uganda/USERNAME.svg)](https://user-badge.committers.top/uganda/kasasa22)
+  githubUsers.sort(_.followers)
+           .filter(_.location == 'Uganda') 
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)
+</div>
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -182,14 +195,3 @@ const kasasa: Developer = {
   
   <p>⭐️ From <a href="https://github.com/kasasa22">Kasasa Livingstone Trevor</a></p>
 </div>
-
-
-
-i want to update my github to read these rankings 
-[![committers.top badge](https://user-badge.committers.top/uganda/USERNAME.svg)](https://user-badge.committers.top/uganda/USERNAME)
-[![committers.top badge](https://org-badge.committers.top/uganda/ORGNAME.svg)](https://org-badge.committers.top/uganda/ORGNAME)
-githubUsers.sort(_.followers)
-           .filter(_.location == 'Uganda') 
-           .take(1000)
-           .sort(_.contributions)
-           .take(256)
