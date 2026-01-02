@@ -1,3 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
-  <!-- Placeholder SVG -->
+
+<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { fill: #c9d1d9; font-family: monospace; font-size: 14px; }
+    .title { font-size: 16px; font-weight: bold; }
+    .label { fill: #8b949e; }
+    .count { fill: #58a6ff; font-size: 12px; }
+    .rank { fill: #238636; font-weight: bold; }
+    rect { rx: 3; }
+    .github { fill: #238636; }
+    .gitlab { fill: #fc6d26; }
+  </style>
+
+  <text x="20" y="25" class="title">📊 Cross-Platform Contributions</text>
+
+  <text x="20" y="60" class="label">GitHub</text>
+  <rect x="100" y="45" width="150" height="18" class="github"/>
+  <text x="255" y="59" class="count">30</text>
+
+  <text x="20" y="95" class="label">GitLab</text>
+  <rect x="100" y="80" width="100" height="18" class="gitlab"/>
+  <text x="205" y="94" class="count">20</text>
+
+  <text x="20" y="135" class="label">Total: <tspan class="count">50</tspan></text>
+  <text x="20" y="160" class="label">Global Rank: <tspan class="rank">Top 50%</tspan></text>
+
+  <text x="20" y="190" class="label" style="font-size: 11px;">Updated: 2026-01-02T10:50:40.357Z</text>
 </svg>
