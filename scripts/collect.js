@@ -6,27 +6,43 @@ const gitlabUserId = "22665548";
 const giteaUser = "kasasatrevor";
 
 async function github() {
-  const res = await axios.get(
-    `https://api.github.com/users/${githubUser}/events`,
-    { headers: { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } }
-  );
-  return res.data.filter(e => e.type === "PushEvent").length;
+  try {
+    const res = await axios.get(
+      `https://api.github.com/users/${githubUser}/events`,
+      { headers: { Authorization: `Bearer ${process.env.GITHUB_TOKEN}` } }
+    );
+    return res.data.filter(e => e.type === "PushEvent").length;
+  } catch (err) {
+    console.error("GitHub API error:", err.message);
+    return 0;
+  }
 }
 
 async function gitlab() {
-  const res = await axios.get(
-    `https://gitlab.com/api/v4/users/${gitlabUserId}/events`,
-    { headers: { "PRIVATE-TOKEN": process.env.GITLAB_TOKEN } }
-  );
-  return res.data.length;
+  try {
+    const res = await axios.get(
+      `https://gitlab.com/api/v4/users/${gitlabUserId}/events`,
+      { headers: { "PRIVATE-TOKEN": process.env.GITLAB_TOKEN } }
+    );
+    return res.data.length;
+  } catch (err) {
+    console.error("GitLab API error:", err.message);
+    return 0;
+  }
 }
 
 async function gitea() {
-  const res = await axios.get(
-    `https://gitea.shamanpay.com/api/v1/users/${giteaUser}/events`,
-    { headers: { Authorization: `token ${process.env.GITEA_TOKEN}` } }
-  );
-  return res.data.length;
+  try {
+    const res = await axios.get(
+      `https://gitea.shamanpay.com/api/v1/users/${giteaUser}/heatmap`,
+      { headers: { Authorization: `token ${process.env.GITEA_TOKEN}` } }
+    );
+    // Sum all contributions from heatmap
+    return res.data.reduce((sum, item) => sum + item.contributions, 0);
+  } catch (err) {
+    console.error("Gitea API error:", err.message);
+    return 0;
+  }
 }
 
 function calculateRank(total) {
