@@ -149,22 +149,16 @@ const kasasa: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kasasa22&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kasasa22&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
 ---
-## Github Rankings
+## 🏅 GitHub Rankings (Uganda)
 
-<div>
-  [![committers.top badge](https://user-badge.committers.top/uganda/USERNAME.svg)](https://user-badge.committers.top/uganda/kasasa22)
-  githubUsers.sort(_.followers)
-           .filter(_.location == 'Uganda') 
-           .take(1000)
-           .sort(_.contributions)
-           .take(256)
-</div>
+[![committers.top badge](https://user-badge.committers.top/uganda/kasasa22.svg)](https://user-badge.committers.top/uganda/kasasa22)
+
 ---
 
 ## 📫 Let's Connect
