@@ -146,6 +146,24 @@ const kasasa: Developer = {
 
 ---
 
+## 📊 Cross-Platform Contributions
+
+<div align="center">
+
+![Contribution Graph](./output/contributions.svg)
+
+### 🏅 Rankings
+
+- 🇺🇬 **Uganda:**
+  [![Uganda Rank](https://user-badge.committers.top/uganda/kasasa22.svg)](https://committers.top/uganda)
+
+- 🌍 **Global:**
+  **GitHub + GitLab + Gitea aggregated**
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
