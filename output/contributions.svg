@@ -14,15 +14,15 @@
   <text x="20" y="25" class="title">📊 Cross-Platform Contributions</text>
 
   <text x="20" y="60" class="label">GitHub</text>
-  <rect x="100" y="45" width="80" height="18" class="github"/>
-  <text x="185" y="59" class="count">16</text>
+  <rect x="100" y="45" width="75" height="18" class="github"/>
+  <text x="180" y="59" class="count">15</text>
 
   <text x="20" y="95" class="label">GitLab</text>
-  <rect x="100" y="80" width="100" height="18" class="gitlab"/>
-  <text x="205" y="94" class="count">20</text>
+  <rect x="100" y="80" width="0" height="18" class="gitlab"/>
+  <text x="105" y="94" class="count">0</text>
 
-  <text x="20" y="135" class="label">Total: <tspan class="count">36</tspan></text>
+  <text x="20" y="135" class="label">Total: <tspan class="count">15</tspan></text>
   <text x="20" y="160" class="label">Global Rank: <tspan class="rank">Top 50%</tspan></text>
 
-  <text x="20" y="190" class="label" style="font-size: 11px;">Updated: 2026-01-31T01:26:31.700Z</text>
+  <text x="20" y="190" class="label" style="font-size: 11px;">Updated: 2026-02-01T01:53:30.730Z</text>
 </svg>
