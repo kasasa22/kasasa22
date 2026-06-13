@@ -4,7 +4,7 @@
   # Hey there, I'm Kasasa Livingstone Trevor
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=854CE6&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+AirQo;Full-Stack+Developer+(React+%26+Node.js);AI+Systems+%26+LLM+Enthusiast;Building+Intelligent+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=854CE6&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Vue+%7C+React+%7C+TypeScript+%7C+Node.js;PHP+%26+Laravel+Backend+Developer;System+Design+%26+Web+Design+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
   </a>
 
   <p>
@@ -26,18 +26,17 @@
 ## About Me
 
 ```typescript
-const kasasa: Developer = {
+const kasasa: Engineer = {
     location: "Kampala, Uganda",
-    role: "Software Engineer @ AirQo",
+    role: "Full-Stack Software Engineer",
     education: "BSc Software Engineering - Makerere University",
-    expertise: ["Full-Stack Development", "AI/ML Systems", "Mobile Development"],
+    expertise: ["System Design", "Web Design", "Full-Stack Development"],
     stack: {
-        frontend: ["React", "Flutter", "TypeScript"],
-        backend: ["Node.js", "Django", "FastAPI", "Laravel"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        ai_ml: ["TensorFlow", "PyTorch", "LangChain"]
+        frontend: ["Vue", "React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "PHP", "Laravel"],
+        databases: ["Supabase", "PostgreSQL", "MySQL", "MongoDB"]
     },
-    currentFocus: "Building AI agents and LLM-powered applications",
+    currentFocus: "Designing and building scalable web systems",
     funFact: "Football addict and tech enthusiast!"
 };
 ```
@@ -48,63 +47,67 @@ const kasasa: Developer = {
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### Frontend
 <p>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 ### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
 ### Database & Cloud
 <p>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### AI/ML
+### Tools
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-## AI & LLM Focus Areas
+## What I Build
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Agents" width="60"/><br />
-      <b>AI Agent Systems</b><br />
-      Building autonomous agents for task automation
+      <img src="https://img.icons8.com/color/96/000000/flow-chart.png" alt="System Design" width="60"/><br />
+      <b>System Design</b><br />
+      Architecting scalable, maintainable systems and APIs
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/brain.png" alt="LLM" width="60"/><br />
-      <b>LLM Applications</b><br />
-      Developing apps with large language models
+      <img src="https://img.icons8.com/color/96/000000/web-design.png" alt="Web Design" width="60"/><br />
+      <b>Web & UI Design</b><br />
+      Designing clean, responsive interfaces and experiences
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/data-configuration.png" alt="Data" width="60"/><br />
-      <b>Data-Driven Solutions</b><br />
-      Creating scalable systems that learn from data
+      <img src="https://img.icons8.com/color/96/000000/source-code.png" alt="Full-Stack" width="60"/><br />
+      <b>Full-Stack Development</b><br />
+      Shipping end-to-end apps with Vue, React, Node, and Laravel
     </td>
   </tr>
 </table>
