@@ -4,7 +4,7 @@
   # Hey there, I'm Kasasa Livingstone Trevor
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=854CE6&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Engineer;Vue+%7C+React+%7C+TypeScript+%7C+Node.js;PHP+%26+Laravel+Backend+Developer;System+Design+%26+Web+Design+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=854CE6&center=true&vCenter=true&width=620&lines=AI+Agent+Developer+%E2%80%93+Full+Stack;Building+Agentic+AI+Workflows+on+GrowOS;Full-Stack+Software+Engineer;Vue+%7C+React+%7C+Next.js+%7C+TypeScript;Laravel+%7C+FastAPI+%7C+Node.js;LLM+%26+Agent+Systems+Engineer" alt="Typing SVG" />
   </a>
 
   <p>
@@ -25,21 +25,38 @@
 
 ## About Me
 
+**AI Agent Developer – Full Stack** at **Grow Factory** (via **B-Smart**), building on **GrowOS** — an agentic AI workspace that connects to the tools a business already uses (email, calendar, CRM, messaging, accounting) and runs configurable AI agents and automated workflows on top of them.
+
+Software Engineering graduate from **Makerere University**, shipping production SaaS across **Next.js, Vue, Laravel and FastAPI** with a focus on multi-tenant architecture, offline-capable PWAs and clean system design.
+
 ```typescript
 const kasasa: Engineer = {
     location: "Kampala, Uganda",
-    role: "Full-Stack Software Engineer",
+    currentRole: "AI Agent Developer – Full Stack @ Grow Factory (via B-Smart)",
+    workingOn: "GrowOS — agentic AI workspace with configurable agents & workflows",
     education: "BSc Software Engineering - Makerere University",
-    expertise: ["System Design", "Web Design", "Full-Stack Development"],
+    expertise: ["AI Agents", "Agentic Workflows", "System Design", "Full-Stack SaaS"],
     stack: {
         frontend: ["Vue", "React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "PHP", "Laravel"],
-        databases: ["Supabase", "PostgreSQL", "MySQL", "MongoDB"]
+        backend: ["FastAPI", "Laravel", "Node.js", "Express"],
+        ai_ml: ["LLMs", "Prompt Engineering", "Agentic Workflows", "PyTorch"],
+        databases: ["PostgreSQL", "Neo4j", "Supabase", "MySQL", "MongoDB"]
     },
-    currentFocus: "Designing and building scalable web systems",
+    currentFocus: "Shipping AI agents and automated workflows on GrowOS",
+    currentlyLearning: ["Advanced Agent Architectures", "LLM Tool-Use Patterns"],
     funFact: "Football addict and tech enthusiast!"
 };
 ```
+
+---
+
+## What I'm Up To
+
+- Building and supporting **AI agents and workflows on GrowOS** at Grow Factory
+- Shipping production SaaS — **[ShopManager](https://github.com/kasasa22/Multi-Branch-Business-Management-Platform)** (multi-branch retail OS) and **[Masters Salon / Busiines](https://masterssalon.shop/login)** (modular-monolith financial platform)
+- Writing agent prompts, running end-to-end QA on agentic flows, and documenting learnings for internal teams
+- Deepening expertise in **agent architectures, LLM tool-use patterns and workflow automation**
+- Open to collaborating on **agentic AI products, LLM-powered apps and multi-tenant SaaS**
 
 ---
 
@@ -47,8 +64,9 @@ const kasasa: Engineer = {
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -66,24 +84,35 @@ const kasasa: Engineer = {
 
 ### Backend
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
+
+### AI / LLM
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-11F712?style=for-the-badge&logo=buffer&logoColor=black" alt="Agentic Workflows" />
 </p>
 
 ### Database & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
 </p>
 
 ### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
@@ -95,19 +124,19 @@ const kasasa: Engineer = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/flow-chart.png" alt="System Design" width="60"/><br />
-      <b>System Design</b><br />
-      Architecting scalable, maintainable systems and APIs
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Agents" width="60"/><br />
+      <b>Agentic AI Workspaces</b><br />
+      Building and testing AI agents on GrowOS that act on real business tools — email, calendar, CRM, messaging, accounting
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/web-design.png" alt="Web Design" width="60"/><br />
-      <b>Web & UI Design</b><br />
-      Designing clean, responsive interfaces and experiences
+      <img src="https://img.icons8.com/color/96/000000/brain.png" alt="LLM" width="60"/><br />
+      <b>LLM-Powered Applications</b><br />
+      Prompt engineering, tool-use design and multimodal LLM workflows for real-world automation
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/source-code.png" alt="Full-Stack" width="60"/><br />
-      <b>Full-Stack Development</b><br />
-      Shipping end-to-end apps with Vue, React, Node, and Laravel
+      <img src="https://img.icons8.com/color/96/000000/source-code.png" alt="Full-Stack SaaS" width="60"/><br />
+      <b>Full-Stack SaaS</b><br />
+      Shipping multi-tenant systems end-to-end with Next.js, Vue, Laravel and FastAPI
     </td>
   </tr>
 </table>
